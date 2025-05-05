@@ -2,10 +2,10 @@
 
 :root {
     --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
+    --verde: #5038b9;
     --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --botao-ativo: #1a1072;
+    --botao-inativo: rgba(24, 18, 90, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
 
@@ -90,6 +90,7 @@ body {
     color: var(--verde);
     text-transform: uppercase;
 }
+
 
 @media screen and (min-width: 768px) {
     .botoes {
